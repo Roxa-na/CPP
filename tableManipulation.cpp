@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// description: in this program a n*n table is given.
+//description: in this program a n*n table is given.
 // each cell in the table is either black or white.
 //Three different operation can be done on the table:
 //1. turning the table clockwise for 90 degree 
