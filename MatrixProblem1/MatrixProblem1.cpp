@@ -1,3 +1,6 @@
+//In this porgram the output is the number of cells in the matrix that have 
+//the value which is smaller than the value in their upper and lower cell 
+//and at same time larger than the value at their left and right side or vice versa.
 #include <iostream>
 using namespace std;
 
