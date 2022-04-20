@@ -1,3 +1,4 @@
+//This code was written as an answer to a question presented in Quera.org.
 //The code below gets maximum 100 by 100 matrix and finds the number of cells, 
 //where the number in the cell is larger than the numbers located in the upper and lower cell,
 //and at the same time the number is smaller than the numbers located st the left and right of the cell
