@@ -1,5 +1,5 @@
 input:
-the number of rows
+the number of rows n<12
 output:
 pascal's triangle till the nth row
 
