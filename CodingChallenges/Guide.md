@@ -9,11 +9,13 @@ and
 **The test cases for this program are provided in README.txt which is provided in the code's folder.**
 ## Pascal's triangle  
 
-This program creates the **pascal's triangle of the binomial coefficients** that arises in probability theory, combinatorics, and algebra.
-input:  
+This program creates the **pascal's triangle of the binomial coefficients** that arises in probability theory, combinatorics, and algebra.  
 
-the number of rows (n<12), the condition must be respected.
-output:  
+**input:**  
+
+the number of rows (n<12), the condition must be respected.  
+
+**output:**  
 
 pascal's triangle till the nth row
 **The test cases for this program are provided in README.txt which is provided in the code's folder.**
