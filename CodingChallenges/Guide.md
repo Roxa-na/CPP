@@ -32,7 +32,7 @@ The given table has the following qualities and is inputted as follows:
 **Qualities:**  
 
 - each cell is either black or white  
-- **Input Representation:**  
+**Input Representation:**  
 WWB  
 BWB  
 WWW  
