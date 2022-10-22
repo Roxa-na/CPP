@@ -2,9 +2,9 @@
 
 ## Matrix problem1  
 
-This program was written for a challenge presented on ![quera.org](https://quera.org/). I didn't know what to name this problem, so I just named it matrix problem 1. Basically, as input, it gets rows and columns of a matrix and the matrix itself. As result, the program will return a number of cells that have certain traits:
-- their value is smaller than the value in their upper and lower cells
-simultaneously
+This program was written for a challenge presented on ![quera.org](https://quera.org/). I didn't know what to name this problem, so I just named it matrix problem 1. Basically, as input, it gets rows and columns of a matrix and the matrix itself. As result, the program will return the number of cells that have certain traits:
+- their value is smaller than the value in their upper and lower cells  
+and 
 - their value is larger than the value at their left and right side
 **The test cases for this program are provided in README.txt which is provided in the code's folder.**
 ## Pascal's triangle  
